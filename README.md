@@ -22,7 +22,7 @@ Some open questions, made more for thinking thing along the lines of:
 - Is it ethical to hack into a system that was left open?
 - Are data-trained algorithms fair?
 
-These questions would be presented as articles, with some discussions and external references.
+These questions would be presented as articles, with some discussions and external references. It could feature cross-posted articles from other sources, along with some original content.
 
 ## Stories about real-world situations of ethical development choices
 
@@ -34,7 +34,7 @@ Some examples (fictional for now):
 - You are asked to validate the software for a voting machine. You discover that several validation mechanisms are missing, and that votes could easily be tampered. What do you do?
 - You are asked to reduce the fraud-rate on an e-commerce website. You are told to implement customer profiling, and to feed it into a machine-learning system. What could possibily go wrong? What do you do?
 
-These articles would state the issue, explain how it could turn wrong, how did software developers react, and finally how it turned out in the end (sometimes right, sometimes wrong).
+These articles would state the issue, explain how it could turn wrong, how did software developers react, and finally how it turned out in the end (sometimes right, sometimes wrong). It could feature cross-posted articles from other sources, along with some original content.
 
 ## Proposition of a software developers' oath
 
